@@ -1,0 +1,7 @@
+defaults:
+  - medium
+  - _self_
+
+task_name: hopper_hop
+action repeat: 4
+aug_lr: 1e-6

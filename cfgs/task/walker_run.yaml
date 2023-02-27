@@ -1,0 +1,9 @@
+defaults:
+  - medium
+  - _self_
+
+task_name: walker_run
+nstep: 1
+batch_size: 512
+# action_repeat: 2
+aug_lr: 2e-6

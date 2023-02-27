@@ -1,0 +1,6 @@
+defaults:
+  - medium
+  - _self_
+
+task_name: reacher_easy
+aug_lr: 1e-6

@@ -1,0 +1,6 @@
+defaults:
+  - easy
+  - _self_
+
+task_name: pendulum_swingup
+# aug_lr: 2e-6

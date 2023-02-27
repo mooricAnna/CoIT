@@ -1,0 +1,6 @@
+defaults:
+  - medium
+  - _self_
+
+task_name: quadruped_walk
+aug_lr: 1e-6
