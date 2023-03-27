@@ -4,8 +4,9 @@ CoIT
 
 <!-- **Status**: Archive (code is provided as-is, no updates expected) -->
 
-This is a PyTorch implementation of [On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning] for DeepMind Control Suite.
+This is a PyTorch implementation of "On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning" for DeepMind Control Suite.
 The code has not been tested for any other setting.
+[PDF][assets/coit_paper.pdf] [OpenReview][https://openreview.net/forum?id=-nm-rHXi5ga] [WebPage][https://mooricanna.github.io/coit-web/]
 
 ## Instructions
 
